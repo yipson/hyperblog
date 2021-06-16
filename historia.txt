@@ -1,4 +1,8 @@
-Mi nombre es sebastian valencia, estudiante de ing de sistemas
-y mison tic
-tengo bases muy solidas de programacion, programacion web,
-bases de datos y estoyreforzando com=nocimentos sobre git
+Mi nombre es sebastian valencia, estudiante de ing de sistemas de la
+universidad cooperativa de colombia y tambien de mison tic, me encuentro
+realizando diferentes cursos de programacion
+en udemy, me gusta el desarrollo backend... a y estoy proximo a cumplir
+22 agnos. Tengo bases muy solidas de programacion, programacion web,
+bases de datos y estoy reforzando conocimentos sobre git.
+
+estoy tomando el curso de git de platzi
