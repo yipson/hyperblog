@@ -1,9 +1,8 @@
-Mi nombre es sebastian valencia, estudiante de ing de sistemas de la
-universidad cooperativa de colombia y tambien de mison tic, me encuentro
-realizando diferentes cursos de programacion
-en udemy, me gusta el desarrollo backend... a y estoy proximo a cumplir
-22 agnos. Tengo bases muy solidas de programacion, programacion web,
-bases de datos y estoy reforzando conocimentos sobre git.
+Mi nombre es sebastian valencia, estudiante de ing de sistemas
+y mison tic
+tengo bases muy solidas de programacion, programacion web,
+bases de datos y estoyreforzando com=nocimentos sobre git
 
-estoy aprendiendo con el curso de git de platzi, pero anteriormente 
-ya habia tomado un curso de comandos basicos
+Y esta ultima linea la estoy anadiendo mucho tiempo despues de
+haber realizado mucho commits, asi que quiero llevar esta nueva versio
+que fue la primera, hasta el HEAD
